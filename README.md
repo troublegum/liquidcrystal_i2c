@@ -43,3 +43,5 @@ leftToRight() — задаёт направление текста слева н
 rightToLeft() — направление текста справа налево;
 
 createChar() — создаёт пользовательский символ для LCD-экрана.
+
+Ссылка на проект: https://github.com/troublegum/liquidcrystal_i2c
